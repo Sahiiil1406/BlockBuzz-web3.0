@@ -20,3 +20,44 @@ Web3.0 social media apps offer decentralized, community-driven platforms with fe
 3.User can see each each other posts and profile.
 
 4.User can send friend request.
+## HOW TO SETUP PROJECT LOCALLY
+
+### Clone the repository
+```
+git clone <your-repo-url>
+cd <your-repo-folder>
+```
+
+### Install backend dependencies
+```
+cd lottery
+npm install
+```
+
+# Install frontend dependencies
+```
+cd my app
+npm install
+```
+
+
+
+### Compile and deploy smart contracts
+```
+cd lottery
+npx hardhat compile
+```
+
+### Start development servers
+```
+npx hardhat node 
+
+npx hardhat run scripts/deploy.js --network localhost
+```
+
+### For Next.js development server
+```
+cd my app
+npm run dev 
+```
+
