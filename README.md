@@ -61,3 +61,7 @@ cd my app
 npm run dev 
 ```
 
+##SCREENSHOTS-
+![profiles]([https://github.com/Sahiiil1406/SocialMedia-Web3.0/blob/main/my-app/public/Screenshot%202024-06-16%20233401.png] "Title")
+![create post]([./my app/public/] "Title")
+
