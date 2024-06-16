@@ -61,6 +61,6 @@ cd my app
 npm run dev 
 ```
 
-##SCREENSHOTS-
-![Employee data]((https://github.com/Sahiiil1406/SocialMedia-Web3.0/blob/main/my-app/public/Screenshot%202024-06-16%20233401.png) "Employee Data title")
+## SCREENSHOTS
+![Employee data] ( my-app/public/Screenshot 2024-06-16 233401.png "Employee Data title")
 
