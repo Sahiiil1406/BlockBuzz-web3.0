@@ -65,6 +65,8 @@ npm run dev
 
 <img src="my-app/public/Screenshot 2024-06-16 232255.png" alt="Employee data" title="Employee Data title">
 
+<img src="my-app/public/Screenshot 2024-06-17 000908.png" alt="Employee data" title="Employee Data title">
+
 <img src="my-app/public/Screenshot 2024-06-16 233401.png" alt="Employee data" title="Employee Data title">
 
 <img src="my-app/public/Screenshot 2024-06-16 233501.png" alt="Employee data" title="Employee Data title">
