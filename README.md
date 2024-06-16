@@ -62,5 +62,6 @@ npm run dev
 ```
 
 ## SCREENSHOTS
-![Employee data] ( my-app/public/Screenshot 2024-06-16 233401.png "Employee Data title")
+
+<img src="my-app/public/Screenshot 2024-06-16 233401.png" alt="Employee data" title="Employee Data title">
 
